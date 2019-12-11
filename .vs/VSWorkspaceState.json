@@ -3,10 +3,11 @@
     "",
     "\\public",
     "\\src",
+    "\\src\\actions",
     "\\src\\components",
-    "\\src\\middleware",
+    "\\src\\reducers",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\utils\\helpers.js",
+  "SelectedNode": "\\src\\actions\\tweets.js",
   "PreviewInSolutionExplorer": false
 }
