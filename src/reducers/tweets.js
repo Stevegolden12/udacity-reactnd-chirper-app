@@ -1,6 +1,6 @@
 import { RECEIVE_TWEETS, TOGGLE_TWEET, ADD_TWEET } from '../actions/tweets';
 
-export default function users(state = {}, action) {
+export default function tweets(state = {}, action) {
   switch (action.type) {
     case RECEIVE_TWEETS:
       return {

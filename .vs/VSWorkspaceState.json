@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
+    "\\src\\actions",
     "\\src\\components",
+    "\\src\\middleware",
+    "\\src\\reducers",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\components\\App.js",
+  "SelectedNode": "\\src\\middleware\\logger.js",
   "PreviewInSolutionExplorer": false
 }
